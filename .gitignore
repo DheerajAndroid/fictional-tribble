@@ -1,0 +1,6 @@
+Day0/pyPractice/Include/
+Day0/pyPractice/Lib/
+Day0/pyPractice/Scripts/
+Day0/pyPractice/pyvenv.cfg
+__pycache__/
+*.py[cod]
